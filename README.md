@@ -1,4 +1,4 @@
-Hi, I'm Gunjan Rani 👋
+Hi, I'm Gunjan👋
 Junior Data Analyst | Python Developer | MCA Student
 
 Analytical thinker passionate about Data Storytelling and AI-driven solutions. I specialize in transforming raw datasets into actionable business insights using Python and Power BI.
