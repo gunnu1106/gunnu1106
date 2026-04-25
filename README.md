@@ -1,5 +1,6 @@
 Hi, I'm Gunjan Rani 👋
 Junior Data Analyst | Python Developer | MCA Student
+
 Analytical thinker passionate about Data Storytelling and AI-driven solutions. I specialize in transforming raw datasets into actionable business insights using Python and Power BI.
 
 🛠️ Technical Toolkit
@@ -17,4 +18,6 @@ Midaslogix Infotech (Mar 2024 – May 2024):Developed responsive UI components u
 
 Education: Currently pursuing Master of Computer Applications (MCA) (2024–Present).
 
-📫 Let's ConnectLinkedIn: linkedin.com/in/gunjan-singh-014906245 Email: gunnugunjan582@gmail.com 
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/gunjan-singh-014906245/
+Email: gunnugunjan582@gmail.com 
